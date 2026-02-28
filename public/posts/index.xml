@@ -15,7 +15,7 @@
       <pubDate>Sat, 28 Feb 2026 13:29:50 +0300</pubDate>
       
       <guid>//localhost:1313/posts/project-1/</guid>
-      <description>&lt;p&gt;В рамках этой работы я развернула свой первый сайт на Hugo и настроила его автоматическую публикацию.&lt;/p&gt;&#xA;&lt;p&gt;**Что было сделано:**&lt;/p&gt;&#xA;&lt;p&gt;*   Установила и настроила CMS Hugo на Windows.&lt;/p&gt;&#xA;&lt;p&gt;*   Выбрала и подключтла темы Blowfish.&lt;/p&gt;&#xA;&lt;p&gt;*   Создала и редактировала страницы в формате Markdown.&lt;/p&gt;&#xA;&lt;p&gt;*   Настроила Git и SSH для работы с GitHub.&lt;/p&gt;&#xA;&lt;p&gt;*   Автоматизировала сборку и развертывание сайта с помощью GitHub Actions.&lt;/p&gt;&#xA;&lt;p&gt;*   Опубликовала проект на GitHub Pages.toml&lt;/p&gt;</description>
+      <description>&lt;p&gt;В рамках этой работы я развернула свой первый сайт на Hugo и настроила его автоматическую публикацию.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Что было сделано:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Установка и настройка CMS Hugo на Windows&lt;/li&gt;&#xA;&lt;li&gt;Выбор и подключение темы Blowfish&lt;/li&gt;&#xA;&lt;li&gt;Создание и редактирование страниц в формате Markdown&lt;/li&gt;&#xA;&lt;li&gt;Настройка Git и SSH для работы с GitHub&lt;/li&gt;&#xA;&lt;li&gt;Автоматизация сборки и развертывания сайта с помощью GitHub Actions&lt;/li&gt;&#xA;&lt;li&gt;Публикация проекта на GitHub Pages&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       
     </item>
     

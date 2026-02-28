@@ -30,3 +30,8 @@ theme = "blowfish"
   [params.list]
     showCards = true
     groupByYear = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
