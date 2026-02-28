@@ -7,17 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>© 2026 Дарья</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 13:29:56 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Продолжение работы с Hugo</title>
-      <link>//localhost:1313/posts/project-2/</link>
-      <pubDate>Sat, 28 Feb 2026 13:29:56 +0300</pubDate>
-      
-      <guid>//localhost:1313/posts/project-2/</guid>
-      <description>&lt;p&gt;Сегодня я:&lt;/p&gt;&#xA;&lt;p&gt;- Добавила аватарку на сайт&lt;/p&gt;&#xA;&lt;p&gt;- Создала несколько страниц&lt;/p&gt;&#xA;&lt;p&gt;- Настроила отображение постов&lt;/p&gt;</description>
-      
-    </item>
+    <lastBuildDate>Sat, 28 Feb 2026 13:29:50 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Мой первый проект на Hugo</title>
@@ -25,7 +15,7 @@
       <pubDate>Sat, 28 Feb 2026 13:29:50 +0300</pubDate>
       
       <guid>//localhost:1313/posts/project-1/</guid>
-      <description>&lt;p&gt;В этом проекте я научилась:&lt;/p&gt;&#xA;&lt;p&gt;- Устанавливать Hugo на Windows&lt;/p&gt;&#xA;&lt;p&gt;- Создавать структуру сайта&lt;/p&gt;&#xA;&lt;p&gt;- Добавлять тему как submodule&lt;/p&gt;&#xA;&lt;p&gt;- Работать с конфигом hugo.toml&lt;/p&gt;</description>
+      <description>&lt;p&gt;В рамках этой работы я развернула свой первый сайт на Hugo и настроила его автоматическую публикацию.&lt;/p&gt;&#xA;&lt;p&gt;**Что было сделано:**&lt;/p&gt;&#xA;&lt;p&gt;*   Установила и настроила CMS Hugo на Windows.&lt;/p&gt;&#xA;&lt;p&gt;*   Выбрала и подключтла темы Blowfish.&lt;/p&gt;&#xA;&lt;p&gt;*   Создала и редактировала страницы в формате Markdown.&lt;/p&gt;&#xA;&lt;p&gt;*   Настроила Git и SSH для работы с GitHub.&lt;/p&gt;&#xA;&lt;p&gt;*   Автоматизировала сборку и развертывание сайта с помощью GitHub Actions.&lt;/p&gt;&#xA;&lt;p&gt;*   Опубликовала проект на GitHub Pages.toml&lt;/p&gt;</description>
       
     </item>
     
