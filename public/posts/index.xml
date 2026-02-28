@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Моё портфолио</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Моё портфолио</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-RU</language>
+    <copyright>© 2026 Дарья</copyright>
+    <lastBuildDate>Sat, 28 Feb 2026 13:29:56 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Продолжение работы с Hugo</title>
+      <link>//localhost:1313/posts/project-2/</link>
+      <pubDate>Sat, 28 Feb 2026 13:29:56 +0300</pubDate>
+      
+      <guid>//localhost:1313/posts/project-2/</guid>
+      <description>&lt;p&gt;Сегодня я:&lt;/p&gt;&#xA;&lt;p&gt;- Добавила аватарку на сайт&lt;/p&gt;&#xA;&lt;p&gt;- Создала несколько страниц&lt;/p&gt;&#xA;&lt;p&gt;- Настроила отображение постов&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Мой первый проект на Hugo</title>
+      <link>//localhost:1313/posts/project-1/</link>
+      <pubDate>Sat, 28 Feb 2026 13:29:50 +0300</pubDate>
+      
+      <guid>//localhost:1313/posts/project-1/</guid>
+      <description>&lt;p&gt;В этом проекте я научилась:&lt;/p&gt;&#xA;&lt;p&gt;- Устанавливать Hugo на Windows&lt;/p&gt;&#xA;&lt;p&gt;- Создавать структуру сайта&lt;/p&gt;&#xA;&lt;p&gt;- Добавлять тему как submodule&lt;/p&gt;&#xA;&lt;p&gt;- Работать с конфигом hugo.toml&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
