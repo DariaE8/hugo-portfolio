@@ -23,7 +23,7 @@ draft: false
 
 **Результат:** получен JSON с курсами всех валют. Курс USD составляет **76.05 рублей**.
 
-![Insomnia GET текущий курс](/static/images/insomnia-current.png)
+![Insomnia GET текущий курс](/images/insomnia-current.png)
 
 ### Курс за выбранную дату
 
@@ -31,7 +31,7 @@ draft: false
 
 **Результат:** получены курсы валют на **24.04.2024**.
 
-![Insomnia GET за дату](/static/images/insomnia-date.png)
+![Insomnia GET за дату](/images/insomnia-date.png)
 
 ## 2. POST-запрос в Insomnia
 
@@ -51,7 +51,7 @@ draft: false
 
 **Результат:** сервер вернул статус **200 OK** и отобразил отправленные данные в теле ответа.
 
-![Insomnia POST запрос](/static/images/insomnia-post.png)
+![Insomnia POST запрос](/images/insomnia-post.png)
 
 ## 3. CLI-запросы через cURL
 
@@ -65,7 +65,7 @@ curl https://www.cbr-xml-daily.ru/daily_json.js
 
 **Результат:** в консоли был получен JSON-ответ с актуальными курсами валют.
 
-![CMD GET текущий курс](/static/images/curl-current.png)
+![CMD GET текущий курс](/images/curl-current.png)
 
 ### GET курса за выбранную дату
 
@@ -77,7 +77,7 @@ curl https://www.cbr-xml-daily.ru/archive/2024/04/24/daily_json.js
 
 **Результат:** в консоли был получен JSON-ответ с курсами валют на выбранную дату.
 
-![CMD GET за дату](/static/images/curl-date.png)
+![CMD GET за дату](/images/curl-date.png)
 
 ### POST-запрос
 
@@ -89,7 +89,7 @@ curl -X POST https://httpbin.org/post -H "Content-Type: application/json" -d "{\
 
 **Результат:** сервер вернул статус **200 OK** и отобразил отправленные JSON-данные.
 
-![CMD POST запрос](/static/images/curl-post.png)
+![CMD POST запрос](/images/curl-post.png)
 
 ## 4. Telnet/Netcat запрос
 
@@ -103,7 +103,7 @@ curl -v https://www.google.com
 
 **Результат:** в консоли были отображены технические данные соединения, заголовки запроса и заголовки ответа сервера.
 
-![Telnet/Netcat запрос](/static/images/1.png)
+![Telnet/Netcat запрос](/images/1.png)
 
 ## Вывод
 
