@@ -1,0 +1,14 @@
+[[main]]
+  name = "Главная"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Отчеты"
+  pageRef = "/reports"
+  weight = 20
+
+[[main]]
+  name = "Об авторе"
+  pageRef = "/about"
+  weight = 30
