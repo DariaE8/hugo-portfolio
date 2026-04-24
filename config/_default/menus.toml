@@ -7,8 +7,3 @@
   name = "Отчеты"
   pageRef = "/reports"
   weight = 20
-
-[[main]]
-  name = "Об авторе"
-  pageRef = "/about"
-  weight = 30
