@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://dariae8.github.io/hugo-portfolio/"
 languageCode = "ru-RU"
 defaultContentLanguage = "ru"
 title = "Моё портфолио"
