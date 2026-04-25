@@ -23,7 +23,7 @@ draft: false
 
 **Результат:** получен JSON с курсами всех валют. Курс USD составляет **76.05 рублей**.
 
-![alt](/images/insomnia-current.png)
+<img src="https://raw.githubusercontent.com/DariaE8/hugo-portfolio/main/static/images/insomnia-current.png" alt="Insomnia GET текущий курс" width="800">
 
 ### Курс за выбранную дату
 
@@ -31,7 +31,7 @@ draft: false
 
 **Результат:** получены курсы валют на **24.04.2024**.
 
-![alt](/images/insomnia-date.png)
+<img src="https://raw.githubusercontent.com/DariaE8/hugo-portfolio/main/static/images/insomnia-date.png" alt="Insomnia GET за дату" width="800">
 
 ## 2. POST-запрос в Insomnia
 
@@ -51,7 +51,7 @@ draft: false
 
 **Результат:** сервер вернул статус **200 OK** и отобразил отправленные данные в теле ответа.
 
-![alt](/images/insomnia-post.png)
+<img src="https://raw.githubusercontent.com/DariaE8/hugo-portfolio/main/static/images/insomnia-post.png" alt="Insomnia POST запрос" width="800">
 
 ## 3. CLI-запросы через cURL
 
@@ -65,7 +65,7 @@ curl https://www.cbr-xml-daily.ru/daily_json.js
 
 **Результат:** в консоли был получен JSON-ответ с актуальными курсами валют.
 
-![alt](/images/curl-current.png)
+<img src="https://raw.githubusercontent.com/DariaE8/hugo-portfolio/main/static/images/curl-current.png" alt="CMD GET текущий курс" width="800">
 
 ### GET курса за выбранную дату
 
@@ -77,7 +77,7 @@ curl https://www.cbr-xml-daily.ru/archive/2024/04/24/daily_json.js
 
 **Результат:** в консоли был получен JSON-ответ с курсами валют на выбранную дату.
 
-![alt](/images/curl-date.png)
+<img src="https://raw.githubusercontent.com/DariaE8/hugo-portfolio/main/static/images/curl-date.png" alt="CMD GET за дату" width="800">
 
 ### POST-запрос
 
@@ -89,7 +89,7 @@ curl -X POST https://httpbin.org/post -H "Content-Type: application/json" -d "{\
 
 **Результат:** сервер вернул статус **200 OK** и отобразил отправленные JSON-данные.
 
-![alt](/images/curl-post.png)
+<img src="https://raw.githubusercontent.com/DariaE8/hugo-portfolio/main/static/images/curl-post.png" alt="CMD POST запрос" width="800">
 
 ## 4. Telnet/Netcat запрос
 
@@ -103,7 +103,7 @@ curl -v https://www.google.com
 
 **Результат:** в консоли были отображены технические данные соединения, заголовки запроса и заголовки ответа сервера.
 
-![alt](/images/1.png)
+<img src="https://raw.githubusercontent.com/DariaE8/hugo-portfolio/main/static/images/1.png" alt="Telnet/Netcat запрос" width="800">
 
 ## Вывод
 
@@ -112,5 +112,3 @@ curl -v https://www.google.com
 GET-запросы использовались для получения данных о курсах валют через API Банка России. POST-запрос был выполнен через сервис httpbin, который вернул отправленные JSON-данные в ответе. Также был рассмотрен подробный вывод HTTP-запроса с помощью команды `curl -v`.
 
 Все запросы были выполнены успешно, результаты представлены в виде скриншотов.
-
-<img src="https://raw.githubusercontent.com/DariaE8/hugo-portfolio/main/static/images/curl-current.png" alt="CMD GET текущий курс" width="800">
